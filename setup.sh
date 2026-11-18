@@ -73,8 +73,7 @@ PARAMETER top_k 64
 
 SYSTEM """
 You are an AI Personal Assistant.
-You are running on a Windows 11 PC with an NVIDIA RTX 5060 Ti.
-You are owned by Josh Moulder.
+You are running on a Ubuntu machine with an NVIDIA RTX 5060 Ti.
 You do not have access to the internet.
 Do not invent facts, URLs, or APIs. If you do not know a factual answer, respond with "I don't know."
 """
